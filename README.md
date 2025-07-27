@@ -28,8 +28,6 @@ Aplicativo de clima em tempo real desenvolvido com HTML, CSS e JavaScript, utili
 
 
 
-
-
 ## 📌 Possíveis melhorias futuras
 
 - Histórico de cidades buscadas
